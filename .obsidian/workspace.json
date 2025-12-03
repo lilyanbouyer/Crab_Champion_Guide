@@ -11,10 +11,14 @@
             "id": "a9ddfea7bc177311",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Difficulty Modifiers/Random Loadout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random Loadout"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Difficulty Modifiers/Random Loadout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Random Loadout"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Difficulty Modifiers/Random Loadout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Random Loadout"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Difficulty Modifiers/Random Loadout.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Random Loadout"
             }
           }
         ]
@@ -178,32 +185,33 @@
   },
   "active": "a9ddfea7bc177311",
   "lastOpenFiles": [
-    "Items/Relics/Ability Ring.md",
-    "Items/Relics/Adrenaline Amulet.md",
-    "Items/Relics/Upgrade Ring.md",
-    "Items/Relics/Twin Ring.md",
-    "Items/Relics/Hoarder Backpack.md",
-    "Items/Relics/High Roller.md",
-    "Items/Relics/Ring Of Favoritism.md",
-    "Items/Relics/Trigger Ring.md",
-    "Items/Relics/Overspill Goblet.md",
-    "Items/Relics/Ring Of Tankiness.md",
-    "Items/Relics/Portal Amulet.md",
-    "Items/Relics/Ring Of Luck.md",
-    "Items/Relics/Ring Of Gravity.md",
-    "Items/Relics/Ring Of Swiftness.md",
-    "Items/Relics/Ring Of Regenerating Armor.md",
-    "Items/Relics/Ring Of Potential.md",
-    "Items/Relics/Ring Of Value.md",
-    "Items/Relics/Ring Of Dividends.md",
-    "Items/Relics/Blacksmith Ring.md",
-    "Items/Relics/Duplication Ring.md",
-    "Items/Relics/Skill Ring.md",
-    "Items/Relics/Ring Of Rocket Jumping.md",
-    "Items/Relics/Ammo Ring.md",
-    "Items/Relics/Turbo Ring.md",
-    "Items/Relics/Arcane Ring.md",
-    "Items/Relics/Poison Ring.md",
+    "Difficulty Modifiers/Handle With Care.md",
+    "Difficulty Modifiers/Random Loadout.md",
+    "Difficulty Modifiers/Manual Collection.md",
+    "Difficulty Modifiers/Countdown.md",
+    "Difficulty Modifiers/Impossible Mode 4.md",
+    "Difficulty Modifiers/Impossible Mode 3.md",
+    "Difficulty Modifiers/Impossible Mode 2.md",
+    "Difficulty Modifiers/Impossible Mode 1.md",
+    "Difficulty Modifiers/Immortal Snail.md",
+    "Difficulty Modifiers/Athletic Enemies.md",
+    "Difficulty Modifiers/Slow Recovery.md",
+    "Difficulty Modifiers/Wandering Elites.md",
+    "Difficulty Modifiers/Ultra Chaos.md",
+    "Difficulty Modifiers/No Safety Net.md",
+    "Difficulty Modifiers/Unfair Bosses.md",
+    "Difficulty Modifiers/Eternal Punishment.md",
+    "Difficulty Modifiers/Ambushing Elites.md",
+    "Difficulty Modifiers/Triple Challenge.md",
+    "Difficulty Modifiers/Buffed Enemies.md",
+    "Difficulty Modifiers/Locked Slots.md",
+    "Difficulty Modifiers/Nightmare.md",
+    "Difficulty Modifiers/Ultra Luck.md",
+    "Difficulty Modifiers/Lucky.md",
+    "Difficulty Modifiers/Loot Goblin.md",
+    "Difficulty Modifiers/Discounred Shops.md",
+    "Difficulty Modifiers/Starting Gift.md",
+    "Difficulty Modifiers",
     "Items/Relics",
     "Items/Perks",
     "Items/Melle Mods",
@@ -213,7 +221,6 @@
     "Melee",
     "Ability",
     "Weapons",
-    "Island",
     "Untitled.canvas"
   ]
 }
