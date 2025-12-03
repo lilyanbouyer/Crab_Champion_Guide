@@ -11,14 +11,10 @@
             "id": "a9ddfea7bc177311",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Weapon Mods/Supersharged.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Supersharged"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Weapon Mods/Supersharged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Supersharged"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Weapon Mods/Supersharged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Supersharged"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Weapon Mods/Supersharged.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Supersharged"
+              "title": "Outline"
             }
           }
         ]
@@ -185,32 +178,32 @@
   },
   "active": "a9ddfea7bc177311",
   "lastOpenFiles": [
-    "Items/Weapon Mods/Supersharged.md",
-    "Items/Weapon Mods/Damage Shot.md",
-    "Items/Weapon Mods/Money Shot.md",
-    "Items/Weapon Mods/Health Shot.md",
-    "Items/Weapon Mods/Double Tap.md",
-    "Items/Weapon Mods/Drill Shot.md",
-    "Items/Weapon Mods/Link Shot.md",
-    "Items/Weapon Mods/Targeting Shot.md",
-    "Items/Weapon Mods/Scater Shot.md",
-    "Items/Weapon Mods/X shot.md",
-    "Items/Weapon Mods/Arc Shot.md",
-    "Items/Weapon Mods/Triple Shot.md",
-    "Items/Weapon Mods/Sonic Boom.md",
-    "Items/Weapon Mods/Reload Arc.md",
-    "Items/Weapon Mods/Efficient Shot.md",
-    "Items/Weapon Mods/Random Shot.md",
-    "Items/Weapon Mods/Arcane Shot.md",
-    "Items/Weapon Mods/Poison Shot.md",
-    "Items/Weapon Mods/Lightning Shot.md",
-    "Items/Weapon Mods/Fire Shot.md",
-    "Items/Weapon Mods/Ice Shot.md",
-    "Items/Weapon Mods/Escalating Shot.md",
-    "Items/Weapon Mods/Rapid Fire.md",
-    "Items/Weapon Mods/Heavy Hitter.md",
-    "Items/Weapon Mods/Mag Shot.md",
-    "Items/Weapon Mods/Streak Shot.md",
+    "Items/Relics/Ability Ring.md",
+    "Items/Relics/Adrenaline Amulet.md",
+    "Items/Relics/Upgrade Ring.md",
+    "Items/Relics/Twin Ring.md",
+    "Items/Relics/Hoarder Backpack.md",
+    "Items/Relics/High Roller.md",
+    "Items/Relics/Ring Of Favoritism.md",
+    "Items/Relics/Trigger Ring.md",
+    "Items/Relics/Overspill Goblet.md",
+    "Items/Relics/Ring Of Tankiness.md",
+    "Items/Relics/Portal Amulet.md",
+    "Items/Relics/Ring Of Luck.md",
+    "Items/Relics/Ring Of Gravity.md",
+    "Items/Relics/Ring Of Swiftness.md",
+    "Items/Relics/Ring Of Regenerating Armor.md",
+    "Items/Relics/Ring Of Potential.md",
+    "Items/Relics/Ring Of Value.md",
+    "Items/Relics/Ring Of Dividends.md",
+    "Items/Relics/Blacksmith Ring.md",
+    "Items/Relics/Duplication Ring.md",
+    "Items/Relics/Skill Ring.md",
+    "Items/Relics/Ring Of Rocket Jumping.md",
+    "Items/Relics/Ammo Ring.md",
+    "Items/Relics/Turbo Ring.md",
+    "Items/Relics/Arcane Ring.md",
+    "Items/Relics/Poison Ring.md",
     "Items/Relics",
     "Items/Perks",
     "Items/Melle Mods",
