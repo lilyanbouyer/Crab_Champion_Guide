@@ -11,10 +11,14 @@
             "id": "a9ddfea7bc177311",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Items/Perks/Rare Treasure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rare Treasure"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "fb1f378505984cbf",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Items/Perks/Rare Treasure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Rare Treasure"
             }
           },
           {
@@ -150,19 +155,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Items/Perks/Rare Treasure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Rare Treasure"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -178,32 +185,35 @@
   },
   "active": "a9ddfea7bc177311",
   "lastOpenFiles": [
-    "Items/Relics/Ability Ring.md",
-    "Items/Relics/Adrenaline Amulet.md",
-    "Items/Relics/Upgrade Ring.md",
-    "Items/Relics/Twin Ring.md",
-    "Items/Relics/Hoarder Backpack.md",
-    "Items/Relics/High Roller.md",
-    "Items/Relics/Ring Of Favoritism.md",
-    "Items/Relics/Trigger Ring.md",
-    "Items/Relics/Overspill Goblet.md",
-    "Items/Relics/Ring Of Tankiness.md",
-    "Items/Relics/Portal Amulet.md",
-    "Items/Relics/Ring Of Luck.md",
-    "Items/Relics/Ring Of Gravity.md",
-    "Items/Relics/Ring Of Swiftness.md",
-    "Items/Relics/Ring Of Regenerating Armor.md",
-    "Items/Relics/Ring Of Potential.md",
-    "Items/Relics/Ring Of Value.md",
-    "Items/Relics/Ring Of Dividends.md",
-    "Items/Relics/Blacksmith Ring.md",
-    "Items/Relics/Duplication Ring.md",
-    "Items/Relics/Skill Ring.md",
-    "Items/Relics/Ring Of Rocket Jumping.md",
-    "Items/Relics/Ammo Ring.md",
-    "Items/Relics/Turbo Ring.md",
-    "Items/Relics/Arcane Ring.md",
-    "Items/Relics/Poison Ring.md",
+    "Items/Perks/Freezing Enemies.md",
+    "Items/Perks/Rare Treasure.md",
+    "Items/Perks/Flammable Enemies.md",
+    "Items/Perks/Electric Enemies.md",
+    "Items/Perks/Poisonous Enemies.md",
+    "Items/Perks/Faulty Chests.md",
+    "Items/Perks/Crystal Asteroids.md",
+    "Items/Perks/Bonus Chests.md",
+    "Items/Perks/Care Package.md",
+    "Items/Perks/Level Up.md",
+    "Items/Perks/Critical Lightning.md",
+    "Items/Perks/Ice Dash.md",
+    "Items/Perks/Lightning Dash.md",
+    "Items/Perks/Dagger Dash.md",
+    "Items/Perks/Powerslide.md",
+    "Items/Perks/Leap Of Faith.md",
+    "Items/Perks/Bribe.md",
+    "Items/Perks/Double Trouble.md",
+    "Items/Perks/Juggernaut.md",
+    "Items/Perks/Big Bones.md",
+    "Items/Perks/Glass Cannon.md",
+    "Items/Perks/Damage Seeker.md",
+    "Items/Perks/Brute Force.md",
+    "Items/Perks/Up The Ante.md",
+    "Items/Perks/Slippery Slople.md",
+    "Items/Perks/Workaholic.md",
+    "Items/Perks",
+    "Items/Relics/Untitled",
+    "Perks",
     "Items/Relics",
     "Items/Perks",
     "Items/Melle Mods",
@@ -211,9 +221,6 @@
     "Items/Weapon Mods",
     "Items",
     "Melee",
-    "Ability",
-    "Weapons",
-    "Island",
     "Untitled.canvas"
   ]
 }
