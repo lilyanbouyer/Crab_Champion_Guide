@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "e8ef2bd32d28a0a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e20b3dd97c7411",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9ddfea7bc177311",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45d2d047cfd2af02",
+    "type": "split",
+    "children": [
+      {
+        "id": "251d7024853bad3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46794d3951555750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a9d65c4e3777f8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b2e17374103c7520",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb1f378505984cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdfa86f36c8edd61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be9de93ddc30addf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3e1eb4bb6b9e3045",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d60d9ae7d61f74f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "24ddb5400e3bc54d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a44bf5ac53c72908",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "46794d3951555750",
+  "lastOpenFiles": [
+    "Items/Relics",
+    "Items/Perks",
+    "Items/Melle Mods",
+    "Items/Ability Mods",
+    "Items/Weapon Mods",
+    "Items",
+    "Weapons/Poison Cannon.md",
+    "Weapons/Lightning Scepter.md",
+    "Weapons/Ice Staff.md",
+    "Weapons/Arcane Wand.md",
+    "Weapons/Cluster Launcher.md",
+    "Weapons/Blade Launcher.md",
+    "Weapons/Minigun.md",
+    "Weapons/Rocket Launcher.md",
+    "Weapons/Marksman Rifle.md",
+    "Weapons/Orb Luncer.md",
+    "Weapons/Laser Cannons.md",
+    "Weapons/Crossbow.md",
+    "Weapons/Seagle.md",
+    "Weapons/Flamethrower.md",
+    "Weapons/Sniper.md",
+    "Weapons/Burst Pistol.md",
+    "Weapons/Auto Shotgun.md",
+    "Weapons/Dual Pistols.md",
+    "Weapons/Dual Shotguns.md",
+    "Weapons/Auto Rifle.md",
+    "Melee/Katana.md",
+    "Melee/Pickaxe.md",
+    "Melee/Hammer.md",
+    "Melee/Claw.md",
+    "Melee/Dagger.md",
+    "Melee",
+    "Ability",
+    "Weapons",
+    "Island",
+    "Untitled.canvas"
+  ]
+}
